@@ -1,0 +1,10 @@
+npm i -g @angular/cli
+
+ng --version
+
+ng new project
+
+ng serve --open ( npm start )
+
+1/ ng g c header
+2/ tao component voi extension ( angular snippets )
